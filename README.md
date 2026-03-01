@@ -4,7 +4,7 @@
 
 ---
 
-> 本文原创首发于 LINUX DO，作者 @sauterne 。转载请注明出处和个人 github repo 链接：https://github.com/dongshuyan/GoogleAccount。
+> 本文原创首发于 LINUX DO，作者 @sauterne 。转载请注明出处和个人 github repo 链接：https://github.com/dongshuyan/GoogleAccount
 
 为了组反重力的号池，前前后后自己注册加购买得有 100 个号左右了。既在站里看到需要大佬的踩坑也自己踩过各种坑，现在来总结一个最全的买号流程分享给各位佬友。
 

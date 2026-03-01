@@ -4,7 +4,7 @@
 
 ---
 
-> Originally published on LINUX DO by @sauterne. Please credit the source and author's profile when sharing.
+> Originally published on LINUX DO by @sauterne. Please credit the source and GitHub repo: https://github.com/dongshuyan/GoogleAccount.
 
 This guide summarizes the complete process for purchasing, maintaining, and maximizing student eligibility for Google accounts, based on experience with over 100 accounts.
 
